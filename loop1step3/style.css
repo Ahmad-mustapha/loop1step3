@@ -68,10 +68,6 @@ body{
     align-items: center;
     
 }
-/* .bicycle{
-    height: expresssion(this.scrollHeight<23rem?"auto":"23rem");
-    overflow: hidden;
-} */
 .word{
     color: #5c5c5c;
 }
